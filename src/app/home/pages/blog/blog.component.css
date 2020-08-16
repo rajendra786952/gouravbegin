@@ -1,0 +1,20 @@
+
+#image:hover{
+    cursor: pointer;
+}
+#tittle{
+    color: black;
+}
+#tittle:hover{
+    color:#9c4f8f;
+}
+#readmore{
+    color:#9c4f8f;
+}
+#readmore:hover{
+    color:white;
+    cursor: pointer;
+}
+a{
+    text-decoration: none;
+}

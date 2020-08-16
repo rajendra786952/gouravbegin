@@ -1,0 +1,6 @@
+#ahover{
+    cursor: pointer;
+}
+#ahover:hover{
+    color:#aa4b88;
+}

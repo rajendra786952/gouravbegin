@@ -1,0 +1,16 @@
+
+.readbtn:hover{
+ cursor: pointer;
+}
+.readbtn:hover a{
+    color: white;
+}
+.JoinBtn:hover {  
+ color: #a64d8a !important;
+ cursor: pointer;
+ text-decoration: underline!important;
+}
+a:not([href])
+{
+    color: #a64d8a;
+}

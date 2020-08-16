@@ -1,0 +1,10 @@
+.channel-box:hover .SInglCatLink a{
+    color: white!important;
+}
+a:not([href]){
+    color: #da2a7c;
+    cursor: pointer;
+}
+.readbtn:hover a{
+color: white!important;
+}
